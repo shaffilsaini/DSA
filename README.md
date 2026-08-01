@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaffilsaini/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaffilsaini/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shaffilsaini/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -20,6 +21,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaffilsaini/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaffilsaini/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shaffilsaini/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -62,4 +64,16 @@
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaffilsaini/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaffilsaini/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
