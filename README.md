@@ -7,6 +7,7 @@
 | [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaffilsaini/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaffilsaini/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shaffilsaini/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaffilsaini/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -25,6 +26,7 @@
 | [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaffilsaini/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shaffilsaini/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shaffilsaini/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Bit Manipulation
@@ -71,6 +73,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +83,13 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/shaffilsaini/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
