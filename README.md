@@ -9,6 +9,7 @@
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaffilsaini/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shaffilsaini/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shaffilsaini/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaffilsaini/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/shaffilsaini/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -48,6 +49,7 @@
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaffilsaini/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaffilsaini/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shaffilsaini/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shaffilsaini/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shaffilsaini/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Counting Sort
@@ -71,6 +73,7 @@
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaffilsaini/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shaffilsaini/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shaffilsaini/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +110,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/shaffilsaini/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shaffilsaini/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shaffilsaini/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
