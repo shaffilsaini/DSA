@@ -9,6 +9,7 @@
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/shaffilsaini/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shaffilsaini/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shaffilsaini/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shaffilsaini/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shaffilsaini/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -85,6 +86,7 @@
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/shaffilsaini/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shaffilsaini/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shaffilsaini/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -97,16 +99,19 @@
 | [0877-stone-game](https://github.com/shaffilsaini/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/shaffilsaini/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shaffilsaini/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shaffilsaini/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shaffilsaini/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shaffilsaini/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shaffilsaini/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/shaffilsaini/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +140,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shaffilsaini/DSA/tree/main/1140-stone-game-ii/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/shaffilsaini/DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/shaffilsaini/DSA/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
